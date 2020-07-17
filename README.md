@@ -19,3 +19,6 @@ i3 or higher core processor (CPU)/ 2.1 GHz or higher
 
 Photo images or webcam for testing.
 
+## Run
+
+Run the code by detect_face_image.py(for image recognition), detect_face_video.py(for video/webcam recognition).
