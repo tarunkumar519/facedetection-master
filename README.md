@@ -1,2 +1,1 @@
-# facedetection-master
-Facial recognition using opencv
+# Face Detection using OpenCV
