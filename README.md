@@ -1,8 +1,7 @@
 # Face Detection using OpenCV
 A project on Facial detection using Open-CV.
 
-Submitted in partial fulfillment for the requirement of the award of training in Data Analytics, Machine Learning and AI using Python.
-by Ch.Tarun kumar reddy (Sphoorthy Engineering college, Hyderabad) under the guidance of Mr. Bipul Shahi.
+Submitted in partial fulfillment as mini-project by Ch.Tarun kumar reddy(17M31A0519),Avijit(17M31A0509),P.Monishaa(17M31A0548),Ch.Naveen(17M31A0518) (Sphoorthy Engineering college, Hyderabad) under the guidance of Mrs.Sriveni.
 
 
 ## Requirements
