@@ -20,4 +20,4 @@ Photo images or webcam for testing.
 
 ## Run
 
-Run the code by detect_face_image.py(for image recognition), detect_face_video.py(for video/webcam recognition).
+Run the code by detect_face_image.py(for image recognition), detect_face_video.py(for recorded video recognition),detect_face_live.py(for live video/webcam recognition).
