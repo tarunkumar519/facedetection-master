@@ -16,7 +16,7 @@ Haar Cascades Data File
 
 i3 or higher core processor (CPU)/ 2.1 GHz or higher
 
-Photo images or webcam for testing.
+Webcam for live video testing.
 
 ## Run
 
