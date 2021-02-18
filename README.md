@@ -5,7 +5,7 @@ Submitted in partial fulfillment as mini-project by Ch.Tarun kumar reddy(17M31A0
 
 
 ## Feature updates
-Added FPS support
+v1.1 Added FPS support to video detection
 
 ## Requirements
 
